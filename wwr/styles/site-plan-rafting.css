@@ -2,7 +2,7 @@
 :root {
     --primary-color: #124E78;
     --secondary-color: #F1DEDE;
-    --accent1-color: #285238;
+    --accent1-color: #6b8374;
     --accent2-color: #7CA5B8;
   
     --heading-font: 'wght@500', serif;
@@ -10,7 +10,7 @@
   
     --nav-background-color: #124E78;
     --nav-link-color: #F1DEDE;
-    --nav-hover-link-color: #285238;
+    --nav-hover-link-color: #6b8374;
     --nav-hover-background-color: #7CA5B8;
   }
 body {
